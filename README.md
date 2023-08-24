@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Guevara</h1>
-<h3 align="center">Currently studying Computer Engineering at Tecnológico de Costa Rica. Efficient, organized, with knowledge of Python, C++, C, and Java. Proficient learner of new technologies and an innovative programmer. A creative thinker, adept in software development and working with various data structures. Leadership and soft skills.</h3>
+<h3 align="center">I'm currently studying Computer Engineering at Tecnológico de Costa Rica. Efficient, organized, with knowledge of Python, C++, C, and Java. I see myself as a proficient learner of new technologies and an innovative programmer. A creative thinker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chesguev99&label=Profile%20views&color=0e75b6&style=flat" alt="chesguev99" /> </p>
 
